@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Ishan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Tahmid2000&show_icons=true&hide_border=true&count_private=true&hide=stars)
 <!--
 **Nirvair-Sangha/Nirvair-Sangha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
