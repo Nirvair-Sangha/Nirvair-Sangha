@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Junior at the University of Texas at Dallas, majoring in Computer Science. I have had work experience as a Software Developer Intern working on both the frontend and backend utilizing various frameworks within JavaScript like Node.js, React, and Express. I tend to work on personal projects in both Java and Python with a focus on Artificial Intelligence and Deep Learning. I love working on unique ideas with extensive applications to real world situations as well as doing research on these topics. In my free time I enjoy weightlifting, basketball, and building computers. 
+I am a Master's Student at the University of Texas at Dallas, majoring in Computer Science. I have had work experience as a Software Developer Intern working on both the frontend and backend utilizing various frameworks within JavaScript like Node.js, React, and Express as well as Django and Flask in Python. I tend to work on personal projects in both Java and Python with a focus on Artificial Intelligence and Deep Learning. I love working on unique ideas with extensive applications to real world situations as well as doing research on these topics. In my free time I enjoy weightlifting, basketball, and building computers. 
 
 - 🔭 I’m currently working on side projects that apply neural networks to real life scenarios and different ways to apply data structures and algorithms.
 - 🌱 I’m currently learning more about Machine Learning and Deep Learning using SciKit-Learn, Keras, and PyTorch.
